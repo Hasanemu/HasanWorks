@@ -73,6 +73,11 @@ span{
   font-size: 1.8rem;
   padding: 1rem 2rem;
   border-radius: 3rem;
+    background: linear-gradient(
+    270deg,
+    rgb(240, 74, 8) 10%,
+    rgb(172, 0, 0) 100%
+  );
   cursor: pointer;
   transition: 0.3s ease-in-out;
   color: black;
