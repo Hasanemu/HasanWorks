@@ -352,7 +352,7 @@ section{
     border-bottom-left-radius: 2rem;
     border-left: 2px solid var(--main-color);
     border-bottom: 2px solid var(--main-color);
-    display: block;
+    display: none;
   }
   .navbar a{
     display: block;
