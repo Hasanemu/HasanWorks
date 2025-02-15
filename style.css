@@ -395,7 +395,7 @@ section{
 }
 
 .background-clip{
-  position: absolute;
+  position: center;
   right: 0;
   bottom: 0;
   z-index: -1;
