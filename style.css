@@ -245,6 +245,7 @@ section{
 .service-info{
   display: flex;
   flex-direction: column;
+  text-align: center;
   justify-content: center;
   align-items: center;
   padding: 5rem;
@@ -259,7 +260,8 @@ section{
   transform: scale(1.02);
   background: black;
   color: var(--main-color);
-  border: 3px solid var(--main-color);
+  box-shadow: var(--main-color);
+  transition: 0.4s ease-in-out;
 }
 .service-info h4{
   font-size: 4rem;
