@@ -51,8 +51,8 @@ body{
 span{
   background: linear-gradient(
     270deg,
-    rgb(8, 89, 240) 10%,
-    rgb(129, 87, 255) 100%
+    rgb(240, 74, 8) 10%,
+    rgb(172, 0, 0) 100%
   );
   background-clip: text;
   color: transparent;
