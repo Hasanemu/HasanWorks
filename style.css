@@ -92,7 +92,7 @@ span{
   color: black;
   box-shadow: rgb(128, 212, 1);
   stroke-width: 2rem;
-  box-shadow: 0 0 25px var(--main-color);
+  box-shadow: 0 0 25px rgb(125, 208, 2);
 }
 
 section{
