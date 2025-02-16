@@ -80,7 +80,7 @@ span{
   );
   cursor: pointer;
   transition: 0.3s ease-in-out;
-  color: black;
+  color: white;
   border: none;
   text-wrap: nowrap;
   -webkit-text-stroke: black;
@@ -257,11 +257,10 @@ section{
   transition: 0.3s ease;
 }
 .service-info:hover{
-  box-shadow: 0 0 100px var(--main-color),
-              0 0 100px var(--main-color);
   transform: scale(1.02);
   background: black;
   color: var(--main-color);
+  border: 3px solid var(--main-color);
 }
 .service-info h4{
   font-size: 4rem;
