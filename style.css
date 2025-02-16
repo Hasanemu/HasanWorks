@@ -257,8 +257,8 @@ section{
   transition: 0.3s ease;
 }
 .service-info:hover{
-  box-shadow: 0 0 25px var(--main-color),
-              0 0 50px var(--main-color);
+  box-shadow: 0 0 100px var(--main-color),
+              0 0 100px var(--main-color);
   transform: scale(1.02);
   background: black;
   color: var(--main-color);
