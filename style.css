@@ -414,5 +414,5 @@ section{
 }
 body{
   background-image: url(SupermassiveBinaryBlackHoles_desktop.png);
-  background-size: contain;
+  background-size: cover;
 }
